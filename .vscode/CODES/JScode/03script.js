@@ -6,3 +6,4 @@ const userId = 13579
 console.log(userId.toString());
 console.log(userId);
 console.log(score.indexOf());
+
